@@ -1,6 +1,6 @@
 # ---- Author/Instructor: Samantha Lawler ---- #
 # ---- CoAuthor/Student: Mriana Yadkoo ---- #
-# ---- Student Email: mriana.saeed1997@gmail.com / May99@uregina.ca ---- #
+# ---- Student Email: mriana.saeed1997@gmail.com / May699@uregina.ca ---- #
 # ---- Copyrights: Fall 2020 ---- #
 
 # Used Modulars
